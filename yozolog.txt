@@ -1,0 +1,10 @@
+
+ Exception:2022.01.20 08:48:25
+java.lang.NullPointerException: Attempt to read from field 'int b.q.g.a.i' on a null object reference
+	at b.f.i.s.n.l(Unknown Source:450)
+	at b.f.i.t.h$h.j(Unknown Source:1142)
+	at b.f.i.t.h.h(Unknown Source:141)
+	at emo.main.FileReaderHandler$ReadFileHandlerCallback.handleMessage(Unknown Source:279)
+	at android.os.Handler.dispatchMessage(Handler.java:102)
+	at android.os.Looper.loop(Looper.java:192)
+	at emo.main.ThreadWorker$1.run(Unknown Source:54)
